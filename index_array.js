@@ -88,7 +88,7 @@ console.log(joinWithPipe(['a', 'b', 'c']));
 
 
 
-//   /span>  Practice-Oriented Scenarios
+// Practice-Oriented Scenarios
 
 // 16. Create a function that returns the last item of an array using only .length.
 function getLastItem(arr) {
