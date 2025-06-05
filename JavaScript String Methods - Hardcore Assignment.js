@@ -1,4 +1,4 @@
-// JavaScript String Methods - Hardcore Assignment
+// JavaScript String Methods 
 // Level: Intermediate to Advanced
 // Target Audience: Developers aiming to enhance their understanding of JavaScript String Methods Objective: To focus on logic building, output prediction, and edge case handling using string methods in JavaScript. Number of Questions: 30
 // Sections:
